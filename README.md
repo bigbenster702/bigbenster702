@@ -3,7 +3,7 @@
 ## I'm a Developer, Learner, and Gamer!
 - 🔭 I’m currently working on a game in roblox!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Have Corona be gone!
+- 🥅 2021 Goals: Have masks off and schools in person with covid contained!
 - ⚡ Fun fact: I know how to play piano.
 
 ### Connect with me:
