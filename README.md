@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="bigbenster702's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bigbenster702&show_icons=true&hide_border=true" />
+<img align="left" alt="bigbenster702's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bigbenster702&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/bigbenster702
 [youtube]: https://www.youtube.com/channel/UCm_EJICWLbr1MAYPd-vngNg
