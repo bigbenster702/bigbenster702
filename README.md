@@ -30,7 +30,8 @@
 
 ---
 
-<img align="left" alt="bigbenster702's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bigbenster702&show_icons=true&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=bigbenster702&show_icons=true&count_private=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbenster702&layout=compact&theme=cobalt)
 
 [twitter]: https://twitter.com/bigbenster702
 [youtube]: https://www.youtube.com/channel/UCm_EJICWLbr1MAYPd-vngNg
