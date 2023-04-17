@@ -3,7 +3,7 @@
 ## I'm a Developer, Learner, and Gamer!
 - 🔭 I’m currently working on a game in roblox!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Find a job and get out more.
+- 🥅 2023 Goals: Find a job and get out more.
 - ⚡ Fun fact: I know how to play piano.
 
 ### Connect with me:
