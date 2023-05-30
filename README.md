@@ -1,9 +1,9 @@
 ### Hi there, I'm Ben - aka bigbenster702 👋
 
 ## I'm a Developer, Learner, and Gamer!
-- 🔭 I’m currently working on a game in roblox!
+- 🔭 I’m currently working getting better at coding.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Find a job and get out more.
+- 🥅 2023 Goals: Finding a job and getting out more.
 - ⚡ Fun fact: I know how to play piano.
 
 ### Connect with me:
