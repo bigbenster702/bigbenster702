@@ -3,14 +3,13 @@
 ## I'm a Developer, Learner, and Gamer!
 - 🔭 I’m currently working getting better at coding.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Finding a job and getting out more.
+- 🥅 2024 Goals: Finding a job and getting out more.
 - ⚡ Fun fact: I know how to play piano.
 
 ### Connect with me:
 
 [<img align="left" alt="bigbenster702 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bigbenster702 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bigbenster702 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,7 +33,6 @@
 
 [twitter]: https://twitter.com/bigbenster702
 [youtube]: https://www.youtube.com/channel/UCm_EJICWLbr1MAYPd-vngNg
-[instagram]: https://www.instagram.com/bigbenster702
 [vsc]: https://code.visualstudio.com
 [javasc]: https://www.javascript.com
 [node.js]: https://nodejs.org
