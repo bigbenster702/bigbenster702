@@ -3,7 +3,7 @@
 ## I'm a Developer, Learner, and Gamer!
 - 🔭 I’m currently working getting better at coding.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Finding a job and getting out more.
+- 🥅 2024 Goals: ~~Finding a job~~(I did it) and getting out more.
 - ⚡ Fun fact: I know how to play piano.
 
 ### Connect with me:
