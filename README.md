@@ -1,15 +1,9 @@
-### Hi there, I'm Ben - aka bigbenster702 👋
+### Hi there, I'm Ben - aka bigbenster702
 
 ## I'm a Developer, Learner, and Gamer!
 - 🔭 I’m currently working getting better at coding.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: ~~Finding a job~~(I did it) and getting out more.
+- 🥅 2026 Goals: Dealing with college.
 - ⚡ Fun fact: I know how to play piano.
-
-### Connect with me:
-
-[<img align="left" alt="bigbenster702 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="bigbenster702 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -23,13 +17,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Batch" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][batch]
 [<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][lua]
-
-<br />
-<br />
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bigbenster702&show_icons=true&count_private=true&theme=cobalt)
 
 [twitter]: https://twitter.com/bigbenster702
 [youtube]: https://www.youtube.com/channel/UCm_EJICWLbr1MAYPd-vngNg
